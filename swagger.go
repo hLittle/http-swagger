@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"regexp"
 
-	swaggerFiles "github.com/swaggo/files/v2"
+	swaggerFiles "github.com/swaggo/files"
 	"github.com/swaggo/swag/v2"
 )
 
